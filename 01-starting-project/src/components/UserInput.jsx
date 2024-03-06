@@ -1,5 +1,5 @@
 
-export default function UserInput({onChange}){
+export default function UserInput({onChange, userInput}){
   
     return(
         <section id="user-input">
